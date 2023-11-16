@@ -3,7 +3,7 @@ import numpy as np
 
 def generate_xlsx_for_gephi():
     # Prepare df
-    df = pd.read_excel("data/Liste_Raumsonden.xlsx")
+    df = pd.read_excel("data/raumsonden/Liste_Raumsonden.xlsx")
     df = df.rename(columns={"Name der Sonde":  "ID", "Missonsname/": "Missionsname"})
 
     # Generate Knoten df
@@ -28,6 +28,6 @@ def generate_xlsx_for_gephi():
     df_kanten = df_kanten.rename(columns={"ID": "Source", "Missionsziele": "Target"})
 
     # Write to excel
-    with pd.ExcelWriter("data/ready_for_gephi.xlsx") as writer:
+    with pd.ExcelWriter("data/raumsonden/ready_for_gephi.xlsx") as writer:
         df_knoten.to_excel(writer, sheet_name="Knoten", index=False)
         df_kanten.to_excel(writer, sheet_name="Kanten", index=False)
