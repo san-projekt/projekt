@@ -14,5 +14,5 @@ Tabellarische Auflistung der wichtigen Notebooks und deren Beschreibung für das
 
 | File | Beschreibung |
 | --- | --- |
-| [`raumsonden-notebook.ipynb`](raumsonden-notebook.ipynb) | Notebook mit der Analyse der Raumsonden, wurde verworfen weil bei einer Transformation des Netzwerkes zu wenige Knoten übrig bleiben. |
+| [`raumsonden-notebook.ipynb`](archiv/raumsonden-notebook.ipynb) | Notebook mit der Analyse der Raumsonden, wurde verworfen weil bei einer Transformation des Netzwerkes zu wenige Knoten übrig bleiben. |
 | [`soziale-himmelskrieger.ipynb`](soziale-himmelskrieger.ipynb) | Notebook mit der Analyse der Sozialen Himmelskrieger aus den Star Wars Filmen. |
