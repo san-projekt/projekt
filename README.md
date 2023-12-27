@@ -1,6 +1,14 @@
 # Projekt
 
-Hier in diesem Repository befindet sich unser San Projekt, welches bearbeitet wurde durch Flurina Riner, Patrick Schürmann, Si Ben Tran im HS 2023. Bachelor of Science FHNW in Data Science.
+Hier in diesem Repository befindet sich unser [San Projekt](https://github.com/san-projekt/projekt), welches bearbeitet wurde durch Flurina Riner, Patrick Schürmann, Si Ben Tran im HS 2023. Bachelor of Science FHNW in Data Science.
+
+## Taskboard
+
+Das Taskboard ist [hier](https://github.com/orgs/san-projekt/projects/1) zu finden.
+
+## Übersicht
+
+Übersicht über unsere GitHub Organisation Repo: [hier](https://github.com/orgs/san-projekt/repositories)
 
 ## setup
 
