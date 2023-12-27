@@ -2,6 +2,8 @@
 
 Die Daten stammen aus einer [Kaggle Challenge](https://www.kaggle.com/datasets/ruchi798/star-wars) und sind stehen online zur Verfügung.
 
+[Zweitdatensatz](https://www.kaggle.com/datasets/jsphyg/star-wars/data?select=characters.csv) den wir verwendet haben. haben wir ebenfalls auf Kaggle gefunden. 
+
 # Beschreibung der Daten
 
 Anzahl Knoten: 110   
